@@ -2,6 +2,7 @@
 - 👀 I’m interested in Bash-scripts and Python
 - 🌱 I’m currently learning docker
 - 📫 How to reach me: schbrongx@facebook.com
+- My gists: https://gist.github.com/schbrongx
 
 <!---
 schbrongx/schbrongx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
